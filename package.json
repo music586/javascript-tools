@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/music586/javascript-tools#readme",
   "devDependencies": {
+    "babel-eslint": "^7.2.3",
     "eslint": "^4.6.1",
     "eslint-config-standard": "^10.2.1",
     "eslint-plugin-promise": "^3.5.0",
