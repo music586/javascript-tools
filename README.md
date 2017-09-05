@@ -11,6 +11,7 @@
 ##### eslint
 + eslint配置
 + eslint与工具组合使用
++ vscode <https://segmentfault.com/a/1190000008749631#articleHeader3> 
 
 ##### babel
 + es6配置
