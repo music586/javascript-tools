@@ -6,6 +6,7 @@
 + webpack
 + typescript
 + git 
++ 模板swig, jade
 
 
 ##### eslint
