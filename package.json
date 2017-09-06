@@ -1,7 +1,7 @@
 {
   "name": "javascript-tools",
   "version": "1.0.0",
-  "description": "##### 工具列表     + eslint     + es6",
+  "description": "一个javascript + Node周边工具学习",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
