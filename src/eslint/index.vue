@@ -1,7 +1,7 @@
 <template>
   <div id="app" >
   <div class="bar bar-header bar-positive">
-    <h1 class="title">分类a</h1>
+    <h1 class="title">分类</h1>
   </div>
     <router-view></router-view>
   </div>
